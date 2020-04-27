@@ -1,8 +1,8 @@
 # treeit
-"Just tree it!"
-
 treeit is a mini linux util, that make tree from list of paths
 
-example:
+"Just tree it!"
+
+## Usage
 
 `find . -iname "*.py" | treeit`
