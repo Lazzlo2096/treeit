@@ -9,4 +9,4 @@ treeit is a mini linux util, that make tree from list of paths
 
 ## Installing
 
-sudo cp ./treeit.py /usr/local/bin/treeit
+`sudo cp ./treeit.py /usr/local/bin/treeit`
